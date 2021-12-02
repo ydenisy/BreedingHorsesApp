@@ -1,0 +1,1066 @@
+addHorse returns: Successfully added Horse H001 to BreedingHorses
+addHorse returns: Successfully added Horse H002 to BreedingHorses
+addHorse returns: Successfully added Horse H003 to BreedingHorses
+addHorse returns: Successfully added Horse H004 to BreedingHorses
+addHorse returns: Successfully added Horse H005 to BreedingHorses
+addHorse returns: Successfully added Horse H006 to BreedingHorses
+addHorse returns: Successfully added Horse H007 to BreedingHorses
+addHorse returns: Successfully added Horse H008 to BreedingHorses
+addHorse returns: Successfully added Horse H009 to BreedingHorses
+addHorse returns: Successfully added Horse H010 to BreedingHorses
+addHorse returns: Successfully added Horse H011 to BreedingHorses
+addHorse returns: Successfully added Horse H012 to BreedingHorses
+addHorse returns: Successfully added Horse H013 to BreedingHorses
+addHorse returns: Successfully added Horse H014 to BreedingHorses
+addHorse returns: Successfully added Horse H015 to BreedingHorses
+addTrainer returns: Successfully added Trainer T001 fullName DovRam to BreedingHorses
+addTrainer returns: Successfully added Trainer T002 fullName AlexGore to BreedingHorses
+addTrainer returns: Successfully added Trainer T003 fullName AlexGorelik to BreedingHorses
+addTrainer returns: Successfully added Trainer T004 fullName IgorShulman to BreedingHorses
+addTrainer returns: Successfully added Trainer T005 fullName MuhammadNaser to BreedingHorses
+addTrainer returns: Successfully added Trainer T006 fullName FatmaJohny to BreedingHorses
+addTrainer returns: Successfully added Trainer T007 fullName RamiLevy to BreedingHorses
+addTrainer returns: Successfully added Trainer T008 fullName AlexPoliakov to BreedingHorses
+addTrainer returns: Successfully added Trainer T009 fullName MichaelRozin to BreedingHorses
+addTrainer returns: Successfully added Trainer T010 fullName ShiriMimon to BreedingHorses
+addTrainer returns: Successfully added Trainer T011 fullName DovRam to BreedingHorses
+addTrainer returns: Successfully added Trainer T012 fullName RamGadot to BreedingHorses
+addTrainer returns: Successfully added Trainer T013 fullName ShmuelShmuel to BreedingHorses
+addTrainer returns: Successfully added Trainer T014 fullName BashirZahara to BreedingHorses
+addTrainer returns: Successfully added Trainer T015 fullName MotiFridman to BreedingHorses
+addVeterinarian returns: Successfully added Veterinarian V001 fullName MladenMladenov to BreedingHorses
+addVeterinarian returns: Successfully added Veterinarian V002 fullName DudiKarov to BreedingHorses
+addVeterinarian returns: Successfully added Veterinarian V003 fullName DudiKarov to BreedingHorses
+addVeterinarian returns: Successfully added Veterinarian V004 fullName VardaOlga to BreedingHorses
+addVeterinarian returns: Successfully added Veterinarian V005 fullName MekiRafi to BreedingHorses
+addVeterinarian returns: Successfully added Veterinarian V006 fullName RamiKhan to BreedingHorses
+addVeterinarian returns: Successfully added Veterinarian V007 fullName RotiHaji to BreedingHorses
+addEquestrian returns: Successfully added EquestrianE001 fullName BorisButman to BreedingHorses
+addEquestrian returns: Successfully added EquestrianE002 fullName TomRanger to BreedingHorses
+addEquestrian returns: Successfully added EquestrianE003 fullName ChuckNorris to BreedingHorses
+addEquestrian returns: Successfully added EquestrianE004 fullName TatianaBoikov to BreedingHorses
+addEquestrian returns: Successfully added EquestrianE005 fullName NikolayValuev to BreedingHorses
+addEquestrian returns: Successfully added EquestrianE006 fullName TatianaBoikov to BreedingHorses
+addTrainerToHorse returns: Successfully added Trainer T001 to Horse H001 with nickName Brown
+addTrainerToHorse returns: Successfully added Trainer T001 to Horse H002 with nickName Ultima
+addTrainerToHorse returns: Successfully added Trainer T001 to Horse H003 with nickName Brown
+addTrainerToHorse returns: Successfully added Trainer T002 to Horse H004 with nickName Sleek
+addTrainerToHorse returns: Successfully added Trainer T002 to Horse H005 with nickName Missi
+addTrainerToHorse returns: Successfully added Trainer T003 to Horse H006 with nickName Star
+addTrainerToHorse returns: Successfully added Trainer T004 to Horse H007 with nickName Max
+addTrainerToHorse returns: Successfully added Trainer T005 to Horse H008 with nickName Queen
+addTrainerToHorse returns: Successfully added Trainer T006 to Horse H009 with nickName Sable
+addTrainerToHorse returns: Successfully added Trainer T007 to Horse H010 with nickName Dream
+addTrainerToHorse returns: Successfully added Trainer T009 to Horse H011 with nickName Trojan
+addTrainerToHorse returns: Successfully added Trainer T010 to Horse H012 with nickName Shams
+addTrainerToHorse returns: Successfully added Trainer T011 to Horse H013 with nickName Lucky
+addTrainerToHorse returns: Successfully added Trainer T012 to Horse H014 with nickName Tink
+addTrainerToHorse returns: Failed to add Trainer T002 to Horse H001 with nickName Brown
+addVeterinarianToHorse returns: Successfully added VeterinarianV001 to Horse H001 with nickName Brown
+addVeterinarianToHorse returns: Successfully added VeterinarianV001 to Horse H002 with nickName Ultima
+addVeterinarianToHorse returns: Successfully added VeterinarianV001 to Horse H003 with nickName Brown
+addVeterinarianToHorse returns: Successfully added VeterinarianV001 to Horse H011 with nickName Trojan
+addVeterinarianToHorse returns: Successfully added VeterinarianV001 to Horse H013 with nickName Lucky
+addVeterinarianToHorse returns: Successfully added VeterinarianV002 to Horse H001 with nickName Brown
+addVeterinarianToHorse returns: Successfully added VeterinarianV002 to Horse H004 with nickName Sleek
+addVeterinarianToHorse returns: Successfully added VeterinarianV002 to Horse H005 with nickName Missi
+addVeterinarianToHorse returns: Successfully added VeterinarianV002 to Horse H006 with nickName Star
+addVeterinarianToHorse returns: Successfully added VeterinarianV003 to Horse H001 with nickName Brown
+addVeterinarianToHorse returns: Successfully added VeterinarianV003 to Horse H006 with nickName Star
+addVeterinarianToHorse returns: Successfully added VeterinarianV003 to Horse H012 with nickName Shams
+addVeterinarianToHorse returns: Successfully added VeterinarianV003 to Horse H015 with nickName Speedy
+addVeterinarianToHorse returns: Successfully added VeterinarianV004 to Horse H007 with nickName Max
+addVeterinarianToHorse returns: Successfully added VeterinarianV004 to Horse H008 with nickName Queen
+addVeterinarianToHorse returns: Successfully added VeterinarianV004 to Horse H012 with nickName Shams
+addVeterinarianToHorse returns: Successfully added VeterinarianV005 to Horse H009 with nickName Sable
+addVeterinarianToHorse returns: Successfully added VeterinarianV005 to Horse H010 with nickName Dream
+addVeterinarianToHorse returns: Successfully added VeterinarianV005 to Horse H011 with nickName Trojan
+addVeterinarianToHorse returns: Failed to add Veterinarian V004 to Horse H001 with nickName Brown
+addEquestrianToHorse returns: Successfully added Equestrian E001 fullName EW001 to Horse H002 with nick name Ultima
+addEquestrianToHorse returns: Successfully added Equestrian E002 fullName EW002 to Horse H004 with nick name Sleek
+addEquestrianToHorse returns: Successfully added Equestrian E003 fullName EW003 to Horse H006 with nick name Star
+addEquestrianToHorse returns: Successfully added Equestrian E004 fullName EW004 to Horse H007 with nick name Max
+addEquestrianToHorse returns: Successfully added Equestrian E005 fullName EW005 to Horse H008 with nick name Queen
+addEquestrianToHorse returns: Successfully added Equestrian E006 fullName EW006 to Horse H009 with nick name Sable
+addEquestrianToHorse returns: Failed to add Equestrian E001 fullName EW001 to Horse H010 with nickName Dream
+
+=== Top 10 Trainers returns: ===
+
+
+=Place 1=
+
+Trainer details:
+ID= T004
+Name= IgorShulman
+BirthDay= Mon Mar 03 00:00:00 IST 1986
+SerialId=TW004
+salary=4535.0
+rank= MASTER
+Success rate= 400.0
+totalWinnerHorses= 4
+
+=Place 2=
+
+Trainer details:
+ID= T003
+Name= AlexGorelik
+BirthDay= Tue Feb 02 00:00:00 IST 1988
+SerialId=TW003
+salary=7500.0
+rank= EXPERT
+Success rate= 300.0
+totalWinnerHorses= 3
+
+=Place 3=
+
+Trainer details:
+ID= T005
+Name= MuhammadNaser
+BirthDay= Thu Apr 04 00:00:00 IST 1985
+SerialId=TW005
+salary=5657.0
+rank= EXPERT
+Success rate= 300.0
+totalWinnerHorses= 3
+
+=Place 4=
+
+Trainer details:
+ID= T012
+Name= RamGadot
+BirthDay= Wed Oct 11 00:00:00 IST 1989
+SerialId=TW012
+salary=7685.0
+rank= EXPERT
+Success rate= 300.0
+totalWinnerHorses= 3
+
+=Place 5=
+
+Trainer details:
+ID= T002
+Name= AlexGore
+BirthDay= Thu Dec 03 00:00:00 IST 1987
+SerialId=TW002
+salary=7500.0
+rank= EXPERT
+Success rate= 200.0
+totalWinnerHorses= 4
+
+=Place 6=
+
+Trainer details:
+ID= T006
+Name= FatmaJohny
+BirthDay= Wed May 05 00:00:00 IST 1982
+SerialId=TW006
+salary=6567.6
+rank= JUNIOR
+Success rate= 200.0
+totalWinnerHorses= 2
+
+=Place 7=
+
+Trainer details:
+ID= T009
+Name= MichaelRozin
+BirthDay= Wed Oct 08 00:00:00 IST 1975
+SerialId=TW009
+salary=5640.0
+rank= EXPERT
+Success rate= 200.0
+totalWinnerHorses= 2
+
+=Place 8=
+
+Trainer details:
+ID= T007
+Name= RamiLevy
+BirthDay= Mon Jun 06 00:00:00 IST 1983
+SerialId=TW007
+salary=5757.0
+rank= MASTER
+Success rate= 100.0
+totalWinnerHorses= 1
+
+=Place 9=
+
+Trainer details:
+ID= T011
+Name= DovRam
+BirthDay= Mon Dec 10 00:00:00 IST 1990
+SerialId=TW011
+salary=7899.0
+rank= BEGGINER
+Success rate= 100.0
+totalWinnerHorses= 1
+
+=Place 10=
+
+Trainer details:
+ID= T001
+Name= DovRam
+BirthDay= Tue Dec 10 00:00:00 IST 1985
+SerialId=TW001
+salary=7899.0
+rank= BEGGINER
+Success rate= 0.0
+totalWinnerHorses= 1
+==== End of Top10 Trainers Ranked Report ====
+
+=== findTheBestHorse returns: ===
+
+
+Horse details:
+identifierSerial=H004 
+nickName=Sleek
+birthDate=Sun Sep 11 00:00:00 IDT 2005
+Gender=f
+Weight=320.55
+price=18290.8
+genre=ARABIAN
+revenue=23578.5
+totalParticipatesTimes=20
+popularityRate=15.514812222999765
+Trainer details:
+ID= T002
+Name= AlexGore
+BirthDay= Thu Dec 03 00:00:00 IST 1987
+SerialId=TW002
+salary=7500.0
+rank= EXPERT
+Success rate= 200.0
+totalWinnerHorses= 4
+
+Equestrian details:
+Id= E002
+Name= TomRangerId:E002
+Name: TomRanger
+BirthDate: 07/04/1981
+EquestTime=14:45:00
+rank=MASTER[
+
+Veterinarian details:
+Id= V002
+Name =DudiKarov
+SerialId=VW002
+salary=6578.7
+totalTreatmentHours=532
+mostHorseGenre=ARABIAN]
+hcolor=java.awt.Color[r=0,g=255,b=255]
+=== findTheBestHorse returns: ===
+
+
+Horse details:
+identifierSerial=H006 
+nickName=Star
+birthDate=Wed May 08 00:00:00 IDT 2002
+Gender=m
+Weight=134.87
+price=45565.4
+genre=CANADIAN
+revenue=3466758.8
+totalParticipatesTimes=14
+popularityRate=0.18400922498559752
+Trainer details:
+ID= T003
+Name= AlexGorelik
+BirthDay= Tue Feb 02 00:00:00 IST 1988
+SerialId=TW003
+salary=7500.0
+rank= EXPERT
+Success rate= 300.0
+totalWinnerHorses= 3
+
+Equestrian details:
+Id= E003
+Name= ChuckNorrisId:E003
+Name: ChuckNorris
+BirthDate: 07/04/1985
+EquestTime=12:12:00
+rank=EXPERT[
+
+Veterinarian details:
+Id= V002
+Name =DudiKarov
+SerialId=VW002
+salary=6578.7
+totalTreatmentHours=532
+mostHorseGenre=ARABIAN, 
+
+Veterinarian details:
+Id= V003
+Name =DudiKarov
+SerialId=VW003
+salary=6578.5
+totalTreatmentHours=312
+mostHorseGenre=CANADIAN]
+hcolor=java.awt.Color[r=134,g=253,b=32]
+
+=== printAllHorses returns: ===
+
+
+
+Horse details:
+identifierSerial=H001 
+nickName=Brown
+birthDate=Tue Nov 02 00:00:00 IST 2004
+Gender=m
+Weight=245.87
+price=3547.98
+genre=THOROUGHBRED
+revenue=5645.87
+totalParticipatesTimes=5
+popularityRate=3.142102102953132
+Trainer details:
+ID= T001
+Name= DovRam
+BirthDay= Tue Dec 10 00:00:00 IST 1985
+SerialId=TW001
+salary=7899.0
+rank= BEGGINER
+Success rate= 0.0
+totalWinnerHorses= 1null[
+
+Veterinarian details:
+Id= V001
+Name =MladenMladenov
+SerialId=VW001
+salary=3544.2406999999994
+totalTreatmentHours=342
+mostHorseGenre=THOROUGHBRED, 
+
+Veterinarian details:
+Id= V002
+Name =DudiKarov
+SerialId=VW002
+salary=6585.278699999999
+totalTreatmentHours=532
+mostHorseGenre=ARABIAN, 
+
+Veterinarian details:
+Id= V003
+Name =DudiKarov
+SerialId=VW003
+salary=6578.5
+totalTreatmentHours=312
+mostHorseGenre=CANADIAN]
+hcolor=java.awt.Color[r=34,g=54,b=78]
+
+Horse details:
+identifierSerial=H002 
+nickName=Ultima
+birthDate=Sat Jan 05 00:00:00 IST 2002
+Gender=m
+Weight=232.54
+price=1232.4
+genre=ARABIAN
+revenue=23456.76
+totalParticipatesTimes=7
+popularityRate=0.36777457756314175
+Trainer details:
+ID= T001
+Name= DovRam
+BirthDay= Tue Dec 10 00:00:00 IST 1985
+SerialId=TW001
+salary=7899.0
+rank= BEGGINER
+Success rate= 0.0
+totalWinnerHorses= 1
+
+Equestrian details:
+Id= E001
+Name= BorisButmanId:E001
+Name: BorisButman
+BirthDate: 10/01/1983
+EquestTime=01:01:00
+rank=PUNK[
+
+Veterinarian details:
+Id= V001
+Name =MladenMladenov
+SerialId=VW001
+salary=3544.2406999999994
+totalTreatmentHours=342
+mostHorseGenre=THOROUGHBRED]
+hcolor=java.awt.Color[r=234,g=135,b=11]
+
+Horse details:
+identifierSerial=H003 
+nickName=Brown
+birthDate=Wed Nov 02 00:00:00 IST 2005
+Gender=m
+Weight=245.87
+price=3547.98
+genre=THOROUGHBRED
+revenue=4645.87
+totalParticipatesTimes=5
+popularityRate=3.818423675221218
+Trainer details:
+ID= T001
+Name= DovRam
+BirthDay= Tue Dec 10 00:00:00 IST 1985
+SerialId=TW001
+salary=7899.0
+rank= BEGGINER
+Success rate= 0.0
+totalWinnerHorses= 1null[
+
+Veterinarian details:
+Id= V001
+Name =MladenMladenov
+SerialId=VW001
+salary=3544.2406999999994
+totalTreatmentHours=342
+mostHorseGenre=THOROUGHBRED]
+hcolor=java.awt.Color[r=34,g=54,b=78]
+
+Horse details:
+identifierSerial=H004 
+nickName=Sleek
+birthDate=Sun Sep 11 00:00:00 IDT 2005
+Gender=f
+Weight=320.55
+price=18290.8
+genre=ARABIAN
+revenue=23578.5
+totalParticipatesTimes=20
+popularityRate=15.514812222999765
+Trainer details:
+ID= T002
+Name= AlexGore
+BirthDay= Thu Dec 03 00:00:00 IST 1987
+SerialId=TW002
+salary=7500.0
+rank= EXPERT
+Success rate= 200.0
+totalWinnerHorses= 4
+
+Equestrian details:
+Id= E002
+Name= TomRangerId:E002
+Name: TomRanger
+BirthDate: 07/04/1981
+EquestTime=14:45:00
+rank=MASTER[
+
+Veterinarian details:
+Id= V002
+Name =DudiKarov
+SerialId=VW002
+salary=6585.278699999999
+totalTreatmentHours=532
+mostHorseGenre=ARABIAN]
+hcolor=java.awt.Color[r=0,g=255,b=255]
+
+Horse details:
+identifierSerial=H005 
+nickName=Missi
+birthDate=Sat Sep 04 00:00:00 IDT 2004
+Gender=f
+Weight=487.65
+price=34764.6
+genre=ARABIAN
+revenue=467759.98
+totalParticipatesTimes=12
+popularityRate=0.8918574008832478
+Trainer details:
+ID= T002
+Name= AlexGore
+BirthDay= Thu Dec 03 00:00:00 IST 1987
+SerialId=TW002
+salary=7500.0
+rank= EXPERT
+Success rate= 200.0
+totalWinnerHorses= 4null[
+
+Veterinarian details:
+Id= V002
+Name =DudiKarov
+SerialId=VW002
+salary=6585.278699999999
+totalTreatmentHours=532
+mostHorseGenre=ARABIAN]
+hcolor=java.awt.Color[r=255,g=255,b=255]
+
+Horse details:
+identifierSerial=H006 
+nickName=Star
+birthDate=Wed May 08 00:00:00 IDT 2002
+Gender=m
+Weight=134.87
+price=45565.4
+genre=CANADIAN
+revenue=3466758.8
+totalParticipatesTimes=14
+popularityRate=0.18400922498559752
+Trainer details:
+ID= T003
+Name= AlexGorelik
+BirthDay= Tue Feb 02 00:00:00 IST 1988
+SerialId=TW003
+salary=7500.0
+rank= EXPERT
+Success rate= 300.0
+totalWinnerHorses= 3
+
+Equestrian details:
+Id= E003
+Name= ChuckNorrisId:E003
+Name: ChuckNorris
+BirthDate: 07/04/1985
+EquestTime=12:12:00
+rank=EXPERT[
+
+Veterinarian details:
+Id= V002
+Name =DudiKarov
+SerialId=VW002
+salary=6585.278699999999
+totalTreatmentHours=532
+mostHorseGenre=ARABIAN, 
+
+Veterinarian details:
+Id= V003
+Name =DudiKarov
+SerialId=VW003
+salary=6578.5
+totalTreatmentHours=312
+mostHorseGenre=CANADIAN]
+hcolor=java.awt.Color[r=134,g=253,b=32]
+
+Horse details:
+identifierSerial=H007 
+nickName=Max
+birthDate=Sat Jan 05 00:00:00 IST 2002
+Gender=m
+Weight=332.54
+price=1232.4
+genre=ARABIAN
+revenue=23456.76
+totalParticipatesTimes=7
+popularityRate=0.36777457756314175
+Trainer details:
+ID= T004
+Name= IgorShulman
+BirthDay= Mon Mar 03 00:00:00 IST 1986
+SerialId=TW004
+salary=4535.0
+rank= MASTER
+Success rate= 400.0
+totalWinnerHorses= 4
+
+Equestrian details:
+Id= E004
+Name= TatianaBoikovId:E004
+Name: TatianaBoikov
+BirthDate: 10/01/1986
+EquestTime=12:12:00
+rank=JUNIOR[
+
+Veterinarian details:
+Id= V004
+Name =VardaOlga
+SerialId=VW004
+salary=2323.3
+totalTreatmentHours=250
+mostHorseGenre=CANADIAN]
+hcolor=java.awt.Color[r=234,g=135,b=11]
+
+Horse details:
+identifierSerial=H008 
+nickName=Queen
+birthDate=Fri Nov 01 00:00:00 IST 2002
+Gender=f
+Weight=223.65
+price=10002.3
+genre=PAINT
+revenue=232345.6
+totalParticipatesTimes=9
+popularityRate=0.3874431019997796
+Trainer details:
+ID= T005
+Name= MuhammadNaser
+BirthDay= Thu Apr 04 00:00:00 IST 1985
+SerialId=TW005
+salary=5657.0
+rank= EXPERT
+Success rate= 300.0
+totalWinnerHorses= 3
+
+Equestrian details:
+Id= E005
+Name= NikolayValuevId:E005
+Name: NikolayValuev
+BirthDate: 11/10/1974
+EquestTime=14:16:00
+rank=BEGGINER[
+
+Veterinarian details:
+Id= V004
+Name =VardaOlga
+SerialId=VW004
+salary=2323.3
+totalTreatmentHours=250
+mostHorseGenre=CANADIAN]
+hcolor=java.awt.Color[r=23,g=100,b=32]
+
+Horse details:
+identifierSerial=H009 
+nickName=Sable
+birthDate=Fri Sep 03 00:00:00 IDT 2010
+Gender=m
+Weight=317.6
+price=40000.0
+genre=ARABIAN
+revenue=70000.0
+totalParticipatesTimes=0
+popularityRate=0.0
+Trainer details:
+ID= T006
+Name= FatmaJohny
+BirthDay= Wed May 05 00:00:00 IST 1982
+SerialId=TW006
+salary=6567.6
+rank= JUNIOR
+Success rate= 200.0
+totalWinnerHorses= 2
+
+Equestrian details:
+Id= E006
+Name= TatianaBoikovId:E006
+Name: TatianaBoikov
+BirthDate: 03/12/1984
+EquestTime=17:12:00
+rank=EXPERT[
+
+Veterinarian details:
+Id= V005
+Name =MekiRafi
+SerialId=VW005
+salary=4582.6781
+totalTreatmentHours=344
+mostHorseGenre=STANDARDBRED]
+hcolor=java.awt.Color[r=12,g=87,b=67]
+
+Horse details:
+identifierSerial=H010 
+nickName=Dream
+birthDate=Tue Sep 02 00:00:00 IDT 2008
+Gender=m
+Weight=246.2
+price=30000.0
+genre=APPALOOSA
+revenue=80000.0
+totalParticipatesTimes=3
+popularityRate=1.125
+Trainer details:
+ID= T007
+Name= RamiLevy
+BirthDay= Mon Jun 06 00:00:00 IST 1983
+SerialId=TW007
+salary=5757.0
+rank= MASTER
+Success rate= 100.0
+totalWinnerHorses= 1null[
+
+Veterinarian details:
+Id= V005
+Name =MekiRafi
+SerialId=VW005
+salary=4582.6781
+totalTreatmentHours=344
+mostHorseGenre=STANDARDBRED]
+hcolor=java.awt.Color[r=10,g=44,b=57]
+
+Horse details:
+identifierSerial=H011 
+nickName=Trojan
+birthDate=Sun Nov 01 00:00:00 IST 2009
+Gender=f
+Weight=231.3
+price=24000.0
+genre=STANDARDBRED
+revenue=32000.0
+totalParticipatesTimes=7
+popularityRate=5.25
+Trainer details:
+ID= T009
+Name= MichaelRozin
+BirthDay= Wed Oct 08 00:00:00 IST 1975
+SerialId=TW009
+salary=5640.0
+rank= EXPERT
+Success rate= 200.0
+totalWinnerHorses= 2null[
+
+Veterinarian details:
+Id= V001
+Name =MladenMladenov
+SerialId=VW001
+salary=3544.2406999999994
+totalTreatmentHours=342
+mostHorseGenre=THOROUGHBRED, 
+
+Veterinarian details:
+Id= V005
+Name =MekiRafi
+SerialId=VW005
+salary=4582.6781
+totalTreatmentHours=344
+mostHorseGenre=STANDARDBRED]
+hcolor=java.awt.Color[r=30,g=14,b=27]
+
+Horse details:
+identifierSerial=H012 
+nickName=Shams
+birthDate=Fri Mar 02 00:00:00 IST 2007
+Gender=f
+Weight=231.3
+price=14000.0
+genre=CANADIAN
+revenue=44000.0
+totalParticipatesTimes=3
+popularityRate=0.9545454545454546
+Trainer details:
+ID= T010
+Name= ShiriMimon
+BirthDay= Fri Nov 09 00:00:00 IST 1990
+SerialId=TW010
+salary=6788.0
+rank= PUNK
+Success rate= 0.0
+totalWinnerHorses= 0null[
+
+Veterinarian details:
+Id= V003
+Name =DudiKarov
+SerialId=VW003
+salary=6578.5
+totalTreatmentHours=312
+mostHorseGenre=CANADIAN, 
+
+Veterinarian details:
+Id= V004
+Name =VardaOlga
+SerialId=VW004
+salary=2323.3
+totalTreatmentHours=250
+mostHorseGenre=CANADIAN]
+hcolor=java.awt.Color[r=50,g=14,b=71]
+
+Horse details:
+identifierSerial=H013 
+nickName=Lucky
+birthDate=Mon Nov 05 00:00:00 IST 2007
+Gender=m
+Weight=231.3
+price=27000.0
+genre=QUARTER
+revenue=24100.0
+totalParticipatesTimes=2
+popularityRate=2.240663900414938
+Trainer details:
+ID= T011
+Name= DovRam
+BirthDay= Mon Dec 10 00:00:00 IST 1990
+SerialId=TW011
+salary=7899.0
+rank= BEGGINER
+Success rate= 100.0
+totalWinnerHorses= 1null[
+
+Veterinarian details:
+Id= V001
+Name =MladenMladenov
+SerialId=VW001
+salary=3544.2406999999994
+totalTreatmentHours=342
+mostHorseGenre=THOROUGHBRED]
+hcolor=java.awt.Color[r=33,g=14,b=11]
+
+Horse details:
+identifierSerial=H014 
+nickName=Tink
+birthDate=Fri Dec 04 00:00:00 IST 2009
+Gender=f
+Weight=231.3
+price=34000.0
+genre=IRISH_HUNTER
+revenue=35200.0
+totalParticipatesTimes=10
+popularityRate=9.65909090909091
+Trainer details:
+ID= T012
+Name= RamGadot
+BirthDay= Wed Oct 11 00:00:00 IST 1989
+SerialId=TW012
+salary=7685.0
+rank= EXPERT
+Success rate= 300.0
+totalWinnerHorses= 3null[]
+hcolor=java.awt.Color[r=22,g=20,b=17]
+
+Horse details:
+identifierSerial=H015 
+nickName=Speedy
+birthDate=Tue Feb 07 00:00:00 IST 2006
+Gender=m
+Weight=231.3
+price=23500.0
+genre=STANDARDBRED
+revenue=63000.0
+totalParticipatesTimes=17
+popularityRate=6.341269841269842nullnull[
+
+Veterinarian details:
+Id= V003
+Name =DudiKarov
+SerialId=VW003
+salary=6578.5
+totalTreatmentHours=312
+mostHorseGenre=CANADIAN]
+hcolor=java.awt.Color[r=11,g=23,b=23]
+
+=== printAllPersons returns: ===
+
+
+Trainer details:
+ID= T001
+Name= DovRam
+BirthDay= Tue Dec 10 00:00:00 IST 1985
+SerialId=TW001
+salary=7899.0
+rank= BEGGINER
+Success rate= 0.0
+totalWinnerHorses= 1
+Trainer details:
+ID= T002
+Name= AlexGore
+BirthDay= Thu Dec 03 00:00:00 IST 1987
+SerialId=TW002
+salary=7500.0
+rank= EXPERT
+Success rate= 200.0
+totalWinnerHorses= 4
+Trainer details:
+ID= T003
+Name= AlexGorelik
+BirthDay= Tue Feb 02 00:00:00 IST 1988
+SerialId=TW003
+salary=7500.0
+rank= EXPERT
+Success rate= 300.0
+totalWinnerHorses= 3
+Trainer details:
+ID= T004
+Name= IgorShulman
+BirthDay= Mon Mar 03 00:00:00 IST 1986
+SerialId=TW004
+salary=4535.0
+rank= MASTER
+Success rate= 400.0
+totalWinnerHorses= 4
+Trainer details:
+ID= T005
+Name= MuhammadNaser
+BirthDay= Thu Apr 04 00:00:00 IST 1985
+SerialId=TW005
+salary=5657.0
+rank= EXPERT
+Success rate= 300.0
+totalWinnerHorses= 3
+Trainer details:
+ID= T006
+Name= FatmaJohny
+BirthDay= Wed May 05 00:00:00 IST 1982
+SerialId=TW006
+salary=6567.6
+rank= JUNIOR
+Success rate= 200.0
+totalWinnerHorses= 2
+Trainer details:
+ID= T007
+Name= RamiLevy
+BirthDay= Mon Jun 06 00:00:00 IST 1983
+SerialId=TW007
+salary=5757.0
+rank= MASTER
+Success rate= 100.0
+totalWinnerHorses= 1
+Trainer details:
+ID= T008
+Name= AlexPoliakov
+BirthDay= Sat Jul 07 00:00:00 IST 1984
+SerialId=TW008
+salary=3535.0
+rank= JUNIOR
+Success rate= 0.0
+totalWinnerHorses= 1
+Trainer details:
+ID= T009
+Name= MichaelRozin
+BirthDay= Wed Oct 08 00:00:00 IST 1975
+SerialId=TW009
+salary=5640.0
+rank= EXPERT
+Success rate= 200.0
+totalWinnerHorses= 2
+Trainer details:
+ID= T010
+Name= ShiriMimon
+BirthDay= Fri Nov 09 00:00:00 IST 1990
+SerialId=TW010
+salary=6788.0
+rank= PUNK
+Success rate= 0.0
+totalWinnerHorses= 0
+Trainer details:
+ID= T011
+Name= DovRam
+BirthDay= Mon Dec 10 00:00:00 IST 1990
+SerialId=TW011
+salary=7899.0
+rank= BEGGINER
+Success rate= 100.0
+totalWinnerHorses= 1
+Trainer details:
+ID= T012
+Name= RamGadot
+BirthDay= Wed Oct 11 00:00:00 IST 1989
+SerialId=TW012
+salary=7685.0
+rank= EXPERT
+Success rate= 300.0
+totalWinnerHorses= 3
+Trainer details:
+ID= T013
+Name= ShmuelShmuel
+BirthDay= Wed Nov 12 00:00:00 IST 1986
+SerialId=TW013
+salary=6555.0
+rank= JUNIOR
+Success rate= 0.0
+totalWinnerHorses= 1
+Trainer details:
+ID= T014
+Name= BashirZahara
+BirthDay= Sat Jan 12 00:00:00 IST 1980
+SerialId=TW015
+salary=5888.0
+rank= MASTER
+Success rate= 0.0
+totalWinnerHorses= 2
+Trainer details:
+ID= T015
+Name= MotiFridman
+BirthDay= Wed Mar 11 00:00:00 IST 1981
+SerialId=TW016
+salary=5756.0
+rank= EXPERT
+Success rate= 0.0
+totalWinnerHorses= 4
+
+Veterinarian details:
+Id= V001
+Name =MladenMladenov
+SerialId=VW001
+salary=3544.2406999999994
+totalTreatmentHours=342
+mostHorseGenre=THOROUGHBRED
+
+Veterinarian details:
+Id= V002
+Name =DudiKarov
+SerialId=VW002
+salary=6585.278699999999
+totalTreatmentHours=532
+mostHorseGenre=ARABIAN
+
+Veterinarian details:
+Id= V003
+Name =DudiKarov
+SerialId=VW003
+salary=6578.5
+totalTreatmentHours=312
+mostHorseGenre=CANADIAN
+
+Veterinarian details:
+Id= V004
+Name =VardaOlga
+SerialId=VW004
+salary=2323.3
+totalTreatmentHours=250
+mostHorseGenre=CANADIAN
+
+Veterinarian details:
+Id= V005
+Name =MekiRafi
+SerialId=VW005
+salary=4582.6781
+totalTreatmentHours=344
+mostHorseGenre=STANDARDBRED
+
+Veterinarian details:
+Id= V006
+Name =RamiKhan
+SerialId=VW006
+salary=3323.2
+totalTreatmentHours=400
+mostHorseGenre=UNKNOWN
+
+Veterinarian details:
+Id= V007
+Name =RotiHaji
+SerialId=VW007
+salary=2223.2
+totalTreatmentHours=50
+mostHorseGenre=UNKNOWN
+
+Equestrian details:
+Id= E001
+Name= BorisButmanId:E001
+Name: BorisButman
+BirthDate: 10/01/1983
+EquestTime=01:01:00
+rank=PUNK
+
+Equestrian details:
+Id= E002
+Name= TomRangerId:E002
+Name: TomRanger
+BirthDate: 07/04/1981
+EquestTime=14:45:00
+rank=MASTER
+
+Equestrian details:
+Id= E003
+Name= ChuckNorrisId:E003
+Name: ChuckNorris
+BirthDate: 07/04/1985
+EquestTime=12:12:00
+rank=EXPERT
+
+Equestrian details:
+Id= E004
+Name= TatianaBoikovId:E004
+Name: TatianaBoikov
+BirthDate: 10/01/1986
+EquestTime=12:12:00
+rank=JUNIOR
+
+Equestrian details:
+Id= E005
+Name= NikolayValuevId:E005
+Name: NikolayValuev
+BirthDate: 11/10/1974
+EquestTime=14:16:00
+rank=BEGGINER
+
+Equestrian details:
+Id= E006
+Name= TatianaBoikovId:E006
+Name: TatianaBoikov
+BirthDate: 03/12/1984
+EquestTime=17:12:00
+rank=EXPERT

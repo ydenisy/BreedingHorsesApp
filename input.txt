@@ -1,0 +1,124 @@
+
+// Adding horses to the BreedingHorses system
+
+addHorse H001 Brown 23/02/2003 245.87 m 34 54 78 3547.98 THOROUGHBRED 5645.87 5
+addHorse H002 Ultima 25/05/2000 232.54 m 234 135 11 1232.4 ARABIAN 23456.76 7
+addHorse H003 Brown 23/02/2004 245.87 m 34 54 78 3547.98 THOROUGHBRED 4645.87 5
+addHorse H004 Sleek 09/11/2005 320.55 f 0 255 255 18290.8 ARABIAN 23578.5 20
+addHorse H005 Missi 09/04/2004 487.65 f 255 255 255 34764.6 ARABIAN 467759.98 12
+addHorse H006 Star 17/08/2001 134.87 m 134 253 32 45565.4 CANADIAN 3466758.8 14
+addHorse H007 Max 25/05/2000 332.54 m 234 135 11 1232.4 ARABIAN 23456.76 7
+addHorse H008 Queen 11/01/2002 223.65 f 23 100 32 10002.3 PAINT 232345.6 9
+addHorse H009 Sable 09/03/2010 317.6 m 12 87 67 40000 ARABIAN 70000 0
+addHorse H010 Dream 09/02/2008 246.2 m 10 44 57 30000 APPALOOSA 80000 3
+addHorse H011 Trojan 11/01/2009 231.3 f 30 14 27 24000 STANDARDBRED 32000 7
+addHorse H012 Shams 15/02/2006 231.3 f 50 14 71 14000 CANADIAN 44000 3
+addHorse H013 Lucky 11/05/2007 231.3 m 33 14 11 27000 QUARTER 24100 2
+addHorse H014 Tink 24/04/2008 231.3 f  22 20 17 34000 IRISH_HUNTER 35200 10
+addHorse H015 Speedy 14/07/2005 231.3 m 11 23 23 23500 STANDARDBRED 63000 17
+
+// Adding trainers to the BreedingHorses system
+
+addTrainer T001 DovRam 24/10/84 TW001 7899 BEGGINER 1
+addTrainer T002 AlexGore 24/03/86 TW002 7500 EXPERT 4
+addTrainer T003 AlexGorelik 14/02/87 TW003 7500 EXPERT 3
+addTrainer T004 IgorShulman 15/03/85 TW004 4535 MASTER 4
+addTrainer T005 MuhammadNaser 16/04/84 TW005 5657 EXPERT 3
+addTrainer T006 FatmaJohny 17/05/81 TW006 6567.6 JUNIOR 2
+addTrainer T007 RamiLevy 18/06/82 TW007 5757 MASTER 1
+addTrainer T008 AlexPoliakov 19/07/83 TW008 3535 JUNIOR 1
+addTrainer T009 MichaelRozin 10/08/75 TW009 5640 EXPERT 2
+addTrainer T010 ShiriMimon 11/09/90 TW010 6788 PUNK 0
+addTrainer T011 DovRam 24/10/89 TW011 7899 BEGGINER 1
+addTrainer T012 RamGadot 22/11/88 TW012 7685 EXPERT 3
+addTrainer T013 ShmuelShmuel 23/12/85 TW013 6555 JUNIOR 1
+addTrainer T014 BashirZahara 25/12/78 TW015 5888 MASTER 2
+addTrainer T015 MotiFridman 27/11/79 TW016 5756 EXPERT 4
+
+
+// Adding veterinarians to the BreedingHorses system
+
+addVeterinarian V001 MladenMladenov 3/05/82 VW001 3540.7 342
+addVeterinarian V002 DudiKarov 4/08/83 VW002 6578.7 532
+addVeterinarian V003 DudiKarov 24/01/78 VW003 6578.5 312
+addVeterinarian V004 VardaOlga 29/05/89 VW004 2323.3 250
+addVeterinarian V005 MekiRafi 14/07/87 VW005 4578.1 344
+addVeterinarian V006 RamiKhan 13/04/87 VW006 3323.2 400
+addVeterinarian V007 RotiHaji 11/06/89 VW007 2223.2 50
+
+
+// Adding equestrian to the BreedingHorses system
+
+addEquestrian E001 BorisButman 25/10/81 PUNK 01:01:00
+addEquestrian E002 TomRanger 16/07/80 MASTER 14:45:00
+addEquestrian E003 ChuckNorris 16/07/84 EXPERT 12:12:00
+addEquestrian E004 TatianaBoikov 25/10/84 JUNIOR 12:12:00
+addEquestrian E005 NikolayValuev 22/11/73 BEGGINER 14:16:00
+addEquestrian E006 TatianaBoikov 12/03/84 EXPERT 17:12:00
+
+
+// Adding trainer to a Horse
+
+	
+addTrainerToHorse T001 TW001 H001 Brown
+addTrainerToHorse T001 TW001 H002 Ultima
+addTrainerToHorse T001 TW001 H003 Brown
+addTrainerToHorse T002 TW002 H004 Sleek 
+addTrainerToHorse T002 TW002 H005 Missi
+addTrainerToHorse T003 TW003 H006 Star
+addTrainerToHorse T004 TW004 H007 Max
+addTrainerToHorse T005 TW005 H008 Queen
+addTrainerToHorse T006 TW006 H009 Sable
+addTrainerToHorse T007 TW007 H010 Dream 
+addTrainerToHorse T009 TW009 H011 Trojan  
+addTrainerToHorse T010 TW010 H012 Shams
+addTrainerToHorse T011 TW011 H013 Lucky
+addTrainerToHorse T012 TW012 H014 Tink
+addTrainerToHorse T002 TW002 H001 Brown
+
+
+// Adding Veterinarian to a Horse
+
+addVeterinarianToHorse V001 VW001 H001 Brown
+addVeterinarianToHorse V001 VW001 H002 Ultima
+addVeterinarianToHorse V001 VW001 H003 Brown
+addVeterinarianToHorse V001 VW001 H011 Trojan 
+addVeterinarianToHorse V001 VW001 H013 Lucky
+addVeterinarianToHorse V002 VW002 H001 Brown
+addVeterinarianToHorse V002 VW002 H004 Sleek 
+addVeterinarianToHorse V002 VW002 H005 Missi
+addVeterinarianToHorse V002 VW002 H006 Star
+addVeterinarianToHorse V003 VW003 H001 Brown
+addVeterinarianToHorse V003 VW003 H006 Star
+addVeterinarianToHorse V003 VW003 H012 Shams
+addVeterinarianToHorse V003 VW003 H015 Speedy
+addVeterinarianToHorse V004 VW004 H007 Max
+addVeterinarianToHorse V004 VW004 H008 Queen
+addVeterinarianToHorse V004 VW004 H012 Shams
+addVeterinarianToHorse V005 VW005 H009 Sable
+addVeterinarianToHorse V005 VW005 H010 Dream 
+addVeterinarianToHorse V005 VW005 H011 Trojan 
+addVeterinarianToHorse V004 VW004 H001 Brown
+
+
+// Adding Equestrian to a Horse
+
+addEquestrianToHorse E001 EW001 H002 Ultima
+addEquestrianToHorse E002 EW002 H004 Sleek 
+addEquestrianToHorse E003 EW003 H006 Star
+addEquestrianToHorse E004 EW004 H007 Max
+addEquestrianToHorse E005 EW005 H008 Queen
+addEquestrianToHorse E006 EW006 H009 Sable
+addEquestrianToHorse E001 EW001 H010 Dream 
+
+
+// Queries and reports
+
+printTop10TrainersRankedReport
+findTheBestHorse ARABIAN
+findTheBestHorse CANADIAN
+addBonusToVeterinarians 340 2 0.1
+printAllHorses
+printAllPersons
+
+
